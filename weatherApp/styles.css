@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: skyblue;
+}
+
+#title {
+  color: yellow;
+  text-shadow: 0px 0px 1px black;
+}
+
+#search-btn {
+  padding: 10px 20px 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
+#box {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+
+#city-box {
+  width: 300px;
+  height: 50px;
+  border-bottom: 1px solid black;
+  background-color: gainsboro;
+}
+
+#city-name {
+  margin: 0;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#city-disp {
+  margin: 0;
+  padding-top: 10px;
+}
